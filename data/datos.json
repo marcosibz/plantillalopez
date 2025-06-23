@@ -1,0 +1,8 @@
+[{
+    "id" : 1,
+    "tittle" : "kiwis",
+    "price" : 1200,
+    "description" : "kiwis frescos",
+    "image" : "kiwis.jpg",
+    "stock" : 10
+}]
