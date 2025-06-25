@@ -5,4 +5,40 @@
     "description" : "kiwis frescos",
     "image" : "kiwis.jpg",
     "stock" : 10
+},
+
+{
+    "id" : 2,
+    "tittle" : "manzana",
+    "price" : 12001,
+    "description" : "manzana",
+    "image" : "kiwis.jpg",
+    "stock" : 10
+},
+
+{
+    "id" : 3,
+    "tittle" : "mandarina",
+    "price" : 1200,
+    "description" : "mandarina",
+    "image" : "kiwis.jpg",
+    "stock" : 10
+},
+
+{
+    "id" : 4,
+    "tittle" : "piña",
+    "price" : 1200,
+    "description" : "piña",
+    "image" : "piñas.jpg",
+    "stock" : 10
+},
+
+{
+    "id" : 5,
+    "tittle" : "granada",
+    "price" : 1200,
+    "description" : "granada",
+    "image" : "kiwis.jpg",
+    "stock" : 10
 }]
