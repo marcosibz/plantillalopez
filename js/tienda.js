@@ -44,3 +44,9 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 })
+
+// evento btn agregar
+
+card.querySelector("#addcarrito").onclick = () => {
+    agregarAlCarrito(item)
+}
