@@ -17,10 +17,11 @@ const obtenerProd = async() => {
 // funcion asincronica
 const obtenerProd2 = async() => {
     
+try {    
 response = await fetch(endpoint);
 response = response.json();
 console.log(response);
- catch(error) {
+}catch(error){ 
     console.log("error al leer los datos")
 }
 }
