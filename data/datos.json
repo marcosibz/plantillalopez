@@ -12,33 +12,69 @@
     "tittle" : "manzana",
     "price" : 12001,
     "description" : "manzana",
-    "image" : "kiwis.jpg",
+    "image" : "manzanas.jpg",
     "stock" : 10
 },
 
 {
     "id" : 3,
-    "tittle" : "mandarina",
-    "price" : 1200,
-    "description" : "mandarina",
-    "image" : "kiwis.jpg",
+    "tittle" : "arandanos",
+    "price" : 12001,
+    "description" : "arandanos",
+    "image" : "arandanos.jpg",
     "stock" : 10
 },
 
 {
     "id" : 4,
-    "tittle" : "piña",
-    "price" : 1200,
-    "description" : "piña",
-    "image" : "piñas.jpg",
+    "tittle" : "bananas",
+    "price" : 12001,
+    "description" : "banana",
+    "image" : "bananas.jpg",
     "stock" : 10
 },
 
 {
     "id" : 5,
-    "tittle" : "granada",
-    "price" : 1200,
-    "description" : "granada",
-    "image" : "kiwis.jpg",
+    "tittle" : "cerezas",
+    "price" : 12001,
+    "description" : "cereza",
+    "image" : "cerezas.jpg",
+    "stock" : 10
+},
+
+{
+    "id" : 6,
+    "tittle" : "frambuesas",
+    "price" : 12001,
+    "description" : "frambuesa",
+    "image" : "frambuesas.jpg",
+    "stock" : 10
+},
+
+{
+    "id" : 7,
+    "tittle" : "frutillas",
+    "price" : 12001,
+    "description" : "frutilla",
+    "image" : "frutillas.jpg",
+    "stock" : 10
+},
+
+{
+    "id" : 8,
+    "tittle" : "sandias",
+    "price" : 12001,
+    "description" : "sandia",
+    "image" : "sandias.jpg",
+    "stock" : 10
+},
+
+{
+    "id" : 7,
+    "tittle" : "uvas",
+    "price" : 12001,
+    "description" : "uva",
+    "image" : "uvas.jpg",
     "stock" : 10
 }]
